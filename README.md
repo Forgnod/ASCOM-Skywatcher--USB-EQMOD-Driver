@@ -1,4 +1,4 @@
-# ASCOM-Skywatcher-EQ-Driver
+# ASCOM-Skywatcher-USB-EQMOD-Driver
 USB driver for EQ5/HEQ5/EQ6/EQ6-R and EQ8
 
 For some reason the driver isnt availibe from Skywatcher anymore.
